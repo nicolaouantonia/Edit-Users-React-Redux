@@ -1,0 +1,21 @@
+.userCard.card {
+    margin: 10px 25px;
+    display: inline-block;
+    text-align: center;
+    border: 2px solid black;
+    cursor: pointer;
+
+    .card-body {
+        padding: 10px;
+    }
+
+    .details {
+        background-color: blue;
+    }
+
+    .title {
+        background-color: lightblue;
+        color: black;
+        padding: 0;
+    }
+}
